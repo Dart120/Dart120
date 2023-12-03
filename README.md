@@ -9,7 +9,7 @@ This page contains extensive information on my skills, background and experience
 2. [University Performance and Projects 👩‍💻](#personal_projects_im_proud_of)
 3. [Career Breakdown 👷‍♀️](#my-career-)
 
-If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
+Check out my LinkedIn too, connect with me there:
 
 <a href="https://www.linkedin.com/in/irenitemi-agbejule-53905b157/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
 
@@ -56,8 +56,6 @@ If you would like to find out anything more (or less, as this page is quite deta
     > I'm porting this High Performance Computing benchmark to SYCL, a heterogenous parallel programming model. This is to increase its portablility. I will then compare my implementation to others to see if the gains in portablility are offset by losses in performance. The SYCL CPU alpplication is already done. Check it out!
 # Personal Projects I'm proud of:
 * BytePusher - [BytePusher](https://github.com/Dart120/BytePusher):  [C++, SDL2]
-    > ![Gifdemo245](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/complete_1.png)
-    > 
     >  This project was to get me into emulation in preparation for the development of my Gameboy Emulator. It's an emulator of a machine called a BytePusher which only has one instruction, to move a byte from one location in memory to another. I implemented the memory, audio buffer, display and CPU. in C++ and I'm able to run some roms as you can see below.
     >   
     > ![inter_1](images/colour_test.png)
@@ -82,8 +80,8 @@ If you would like to find out anything more (or less, as this page is quite deta
     > Automatic Swing Dance DJ
     > Uses YOLOv3 and Simple Online Realtime Tracking (SORT) to count how many people are dancing as well as their speed and use librosa to match the BPM of the next song to this activity. Also use spectral analyis on the songs to recommend songs that are similar to the songs that the user seems to like.
 
-* PROGAN - [AI](https://github.com/Dart120/PROGAN):  
-    > ![Gifdemo1](/Users/temi/Developer/torch_test/examples/faces.png)
+* PROGAN - [AI](https://github.com/Dart120/face-gen):  
+    > ![Gifdemo1](https://github.com/Dart120/face-gen/blob/main/examples/faces.png?raw=true)
     > 
     > Re-implementation of Progressive Growing of GANs for Improved Quality, Stability, and Variation use to generate cartoon faces.
 
