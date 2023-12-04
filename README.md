@@ -1,4 +1,4 @@
-# Hi there ?�� I'm Temi, an aspiring Software Engineer!
+# Hi there 👋🏿 I'm Temi, an aspiring Software Engineer!
 
 ### I'm a current student at Durham University in Computer Science.
 
@@ -6,10 +6,10 @@
 
 This page contains extensive information on my skills, background and experience for any of those who are interested (this page also therefore acts as a map to my GitHub repositories):
 
-1. [The technologies I have learnt over the years ?��](#my-technology-stack)
+1. [The technologies I have learnt over the years ](#my-technology-stack)
 2. [Open Source Contributions](#open-source-contributions)
-3. [Projects ?��‍💻](#personal-projects-im-proud-of)
-4. [Career Breakdown ?��‍♀?��](#my-career)
+3. [Projects ](#personal-projects-im-proud-of)
+4. [Career Breakdown ](#my-career)
 
 Check out my LinkedIn too, connect with me there:
 
