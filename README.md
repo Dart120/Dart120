@@ -48,13 +48,13 @@ Check out my LinkedIn too, connect with me there:
 # Open Source Contributions:
 * GameBoyDoctor - [Doctor](https://github.com/robert/gameboy-doctor/commit/c4845ba45e7155f4490ab03e642a7a8d652fab9a):  [Python]
 
-> Removed unecessary unzipping of truth files if they were used previously
+> Removed unnecessary unzipping of truth files if they were used previously
 
 ### BSc Dissertation/Project:
 
-* SYCL Based Parallelisation of HPCCG - [SYSCL-HPCCG](https://github.com/Dart120/HPCCG-SYCL/tree/modified):  [C++, SYCL, OpenMP]
+* SYCL Based Parallelisation of HPCCG - [SYCL-HPCCG](https://github.com/Dart120/HPCCG-SYCL/tree/modified):  [C++, SYCL, OpenMP]
   
-  > I'm porting this High Performance Computing benchmark to SYCL, a heterogenous parallel programming model. This is to increase its portablility. I will then compare my implementation to others to see if the gains in portablility are offset by losses in performance. The SYCL CPU application is already done. Check it out!
+  > I'm porting this High-Performance Computing benchmark to SYCL, a heterogenous parallel programming model. This is to increase its portability. I will then compare my implementation to others to see if the gains in portability are offset by losses in performance. The SYCL CPU application is already done. Check it out!
 
 # Personal Projects I'm proud of:
 
@@ -69,7 +69,7 @@ Check out my LinkedIn too, connect with me there:
   
   > ![Gifdemo2](https://github.com/Dart120/alpha_sync_gui/blob/main/images/example.png?raw=true)
   > 
-  > Reverse engineered the protocol that Sonys imaging edge mobile application uses to connect phones and their line of sony alpha mirrorless cameras by packet sniffing. Used this knowledge to develop an application to wirelessly transfer images from my camera to my laptop. To my knowledge sony hasn't made an application that does this for Apple chip Macbooks and I needed my holiday photos off my camera.
+  > Reverse-engineered the protocol that Sonys imaging edge mobile application uses to connect phones and their line of Sony alpha mirrorless cameras by packet sniffing. Used this knowledge to develop an application to wirelessly transfer images from my camera to my laptop. To my knowledge, Sony hasn't made an application that does this for Apple chip Macbooks and I needed my holiday photos off my camera.
 
 * GameBoy Emulator - [GameBoyEmu](https://github.com/Dart120/GameBoyEmu/tree/CPU_t_cycle_accurate): [C++, SDL2]
   
@@ -84,13 +84,13 @@ Check out my LinkedIn too, connect with me there:
   > 
   > ***Winner of LanHack 2023***
   > Automatic Swing Dance DJ
-  > Uses YOLOv3 and Simple Online Realtime Tracking (SORT) to count how many people are dancing as well as their speed and use librosa to match the BPM of the next song to this activity. Also use spectral analyis on the songs to recommend songs that are similar to the songs that the user seems to like.
+  > Uses YOLOv3 and Simple Online Realtime Tracking (SORT) to count how many people are dancing as well as their speed and use librosa to match the BPM of the next song to this activity. Also used spectral analysis on the songs to recommend songs that are similar to the songs that the user seems to like.
 
 * PROGAN - [AI](https://github.com/Dart120/face-gen):  
   
   > ![Gifdemo1](https://github.com/Dart120/face-gen/blob/main/examples/faces.png?raw=true)
   > 
-  > Re-implementation of Progressive Growing of GANs for Improved Quality, Stability, and Variation use to generate cartoon faces.
+  > Re-implementation of Progressive Growing of GANs for Improved Quality, Stability, and Variation to generate cartoon faces.
 
 ## Awards:
 
